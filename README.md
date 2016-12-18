@@ -22,7 +22,8 @@ Rotational physics offer many examples of discrepant systems.
 
 ## References
 
-T. Tokieda (). _Not Numberphile_. \[Online]. Available:
+T. Tokieda (). _Mathematical Concepts of the Chiralback_. \[Online]. Available: 
+https://youtu.be/x8WazFUIbow
 
 ## License
 
